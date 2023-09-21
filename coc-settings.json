@@ -1,0 +1,8 @@
+{
+  "rust-analyzer": {
+    "server": {
+      "path": "/usr/bin/rust-analyzer"
+    }
+  },
+  "coc.preferences.formatOnSave": true
+}
